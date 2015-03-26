@@ -134,7 +134,7 @@ In order to configure the ckeditor default options, create the following files:
 ```
 app/assets/javascripts/ckeditor/config.js
 
-app/assets/javascripts/ckeditor/contents.css
+app/assets/stylesheets/ckeditor/contents.css
 ```
 
 #### Custom toolbars example
